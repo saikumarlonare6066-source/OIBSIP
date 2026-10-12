@@ -28,3 +28,5 @@ Analysis of product revenue, city-wise sales, and monthly sales trends using Pyt
 # Author
 
 Lonare Saikumar
+BS-MS computer science 
+Vishwa Vishwani institute of systems and management, Hyderabad 
